@@ -2,7 +2,7 @@
   "ticketing_v2_config": {
     "DATASOURCE_PROPERTIES_ORG62_HOSTNAME": "org62--devpro60.cs21.my.salesforce.com",
     "DATASOURCE_PROPERTIES_ORG62_USERNAME": "eapps_ticketing@salesforce.com.devpro60",
-    "DATASOURCE_PROPERTIES_PEOPLEFORCE_HOSTNAME": "dreamjobcentral--qa4.cs19.my.salesforce.com",
+    "DATASOURCE_PROPERTIES_PEOPLEFORCE_HOSTNAME": "dreamjobcentral--pfqa5.cs19.my.salesforce.com",
     "DATASOURCE_PROPERTIES_PEOPLEFORCE_USERNAME": "eapps_ticketing@peopleforce.com.qa4",
     "DATASOURCE_PROPERTIES_SUPPORTFORCE_HOSTNAME": "supportforce--spfqa1.cs65.my.salesforce.com",
     "DATASOURCE_PROPERTIES_SUPPORTFORCE_USERNAME": "eapps_ticketing@supportforce.com.spfqa1",

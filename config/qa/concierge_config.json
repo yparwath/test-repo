@@ -1,6 +1,6 @@
 {
   "concierge_config": {
-    "ALOHA_SSO_DJC_RELAY_URL": "https://test.salesforce.com/services/auth/sso/00D290000008uFeEAI/dreamjobcentral?site=https://qa4-careers.cs19.force.com/dreamjobcentral&startURL=",
+    "ALOHA_SSO_DJC_RELAY_URL": "https://test.salesforce.com/services/auth/sso/00D290000008uFeEAI/dreamjobcentral?site=https://pfqa5-careers.cs19.force.com/dreamjobcentral&startURL=",
     "ALOHA_SSO_ORG62_ID": "0sp0r0000008OIt",
     "ALOHA_SSO_TRAILHEAD_RELAY_URL": "https://login.salesforce.com/services/auth/sso/00D50000000NtVrEAK/TrailheadOrg62?community=https%3A%2F%2Ftrailhead.force.com&startURL=%2Fservices%2Foauth2%2Fauthorize%3Fclient_id%3D3MVG9Km_cBLhsuPy0GOexAuLCX1JFI34fAjqut1damuRn6vyy6TNAk.ql0pfK7GvU2mQWlF3JobcIyi_3dY9s%26redirect_uri%3Dhttps%253A%252F%252Ftrailhead.salesforce.com%252Fauth%252Fsalesforcesso%252Fcallback%26response_type%3Dcode%26state%3D",
     "ALOHA_URL": "https://aloha--qa3.my.salesforce.com",

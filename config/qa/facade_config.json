@@ -10,7 +10,7 @@
     "DATASOURCE_ORG62_SUFFIX": "devpro60",
     "DATASOURCE_ORG62_USERNAME": "eapps_facade@salesforce.com.devpro60",
     "DATASOURCE_PEOPLEFORCE_SUFFIX": "pfqa5",
-    "DATASOURCE_PEOPLEFORCE_USERNAME": "eapps_facade@peopleforce.com.qa4",
+    "DATASOURCE_PEOPLEFORCE_USERNAME": "eapps_facade@peopleforce.com.pfqa5",
     "DATASOURCE_READINESS_USERNAME": "eappsfacade@readiness.salesforce.com.alfredqa",
     "DATASOURCE_SUPPORTFORCE_ROLE_MANAGER": "Termination Manager",
     "DATASOURCE_SUPPORTFORCE_SUFFIX": "spfqa1",

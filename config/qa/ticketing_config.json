@@ -3,7 +3,7 @@
     "DATASOURCE_ALOHA_USERNAME": "eappsfacade@sso.salesforce.com.qa3",
     "DATASOURCE_ORG62_USERNAME": "eapps_ticketing@salesforce.com.devpro60",
     "DATASOURCE_PEOPLEFORCE_SUFFIX": "pfqa5",
-    "DATASOURCE_PEOPLEFORCE_USERNAME": "eapps_ticketing@peopleforce.com.qa4",
+    "DATASOURCE_PEOPLEFORCE_USERNAME": "eapps_ticketing@peopleforce.com.pfqa5",
     "DATASOURCE_SUPPORTFORCE_ROLE_MANAGER": "Termination Manager",
     "DATASOURCE_SUPPORTFORCE_SUFFIX": "spfqa1",
     "DATASOURCE_SUPPORTFORCE_USERNAME": "eapps_ticketing@supportforce.com.spfqa1",

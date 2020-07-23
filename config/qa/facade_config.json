@@ -1,0 +1,31 @@
+{
+  "facade_config": {
+    "ASK_ASTRO_GTO_IS_GA": "true",
+    "ADMIN_USER_IDS": "005290000041TJpAAM,00530000009MXktAAG,0050m000002aaMJAAY,005q0000005I1RSAA0",
+    "AWS_ELASTICSEARCH_URL": "https://vpc-qa-or-concg-es-01-woa7b6gpufssafurxm3sx7el3m.us-west-2.es.amazonaws.com",
+    "CACHE_REFRESH_DELAY_MILLIS": "600000",
+    "CRAWLER_LIGHTNING_KNOWLEDGE_DATA_SOURCES": "PeopleForce",
+    "DATASOURCE_ALOHA_USERNAME": "eappsfacade@sso.salesforce.com.qa3",
+    "DATASOURCE_ANSWERS_USERNAME": "eappsfacade@answers.org.qa",
+    "DATASOURCE_ORG62_SUFFIX": "devpro60",
+    "DATASOURCE_ORG62_USERNAME": "eapps_facade@salesforce.com.devpro60",
+    "DATASOURCE_PEOPLEFORCE_SUFFIX": "qa4",
+    "DATASOURCE_PEOPLEFORCE_USERNAME": "eapps_facade@peopleforce.com.qa4",
+    "DATASOURCE_READINESS_USERNAME": "eappsfacade@readiness.salesforce.com.alfredqa",
+    "DATASOURCE_SUPPORTFORCE_ROLE_MANAGER": "Termination Manager",
+    "DATASOURCE_SUPPORTFORCE_SUFFIX": "spfqa1",
+    "DATASOURCE_SUPPORTFORCE_USERNAME": "eapps_facade@supportforce.com.spfqa1",
+    "EMPLOYEE_CRAWL_DELAY_MINUTES": "5",
+    "KNOWLEDGE_CLASSIC_ATTACHMENTS_ENABLED": "false",
+    "LOGGING_LEVEL_COM_SALESFORCE": "DEBUG",
+    "LOGGING_LEVEL_COM_SALESFORCE_WEBCORE_EAPPS_FACADE_SESSION": "TRACE",
+    "LOGGING_LEVEL_WEBPROXY": "DEBUG",
+    "LOGGING_PATTERN_CONSOLE": "[%thread] %-5level %logger{5} - %msg%n%xThrowable",
+    "MAX_ATTACHMENT_FILESIZE": "0",
+    "READINESS_EXTERNAL_CONTENT_ENABLED": "false",
+    "SERVER_MAX_HTTP_HEADER_SIZE": "524288",
+    "SPRING_KAFKA_CONSUMER_MAX_POLL_RECORDS": "1",
+    "JAVA_OPTS": "-Djdk.tls.client.protocols=\"TLSv1,TLSv1.1,TLSv1.2\"",
+    "GITHUB_REGISTRY_USERNAME": "employee-experience-build"
+  }
+}

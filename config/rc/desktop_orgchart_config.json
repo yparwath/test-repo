@@ -1,0 +1,11 @@
+{
+  "desktop_orgchart_config": {
+    "API_USERNAME": "desktoporgchart@salesforce.com.preproduat",
+    "DATA_ENDPOINT": "https://org62--preproduat.cs69.my.salesforce.com",
+    "NODE_ENV": "staging",
+    "OAUTH_ENDPOINT": "https://aloha--eappsdev.my.salesforce.com",
+    "PRONOUN_ARTICLE": "https://sfdc.co/pronoun",
+    "GITHUB_REGISTRY_USERNAME": "employee-experience-build"
+  },
+  "desktop_orgchart_hostname": "orgchart-desktop-rc.eapps.sfdc.sh"
+}

@@ -1,0 +1,21 @@
+{
+  "ticketing_config": {
+    "ADMIN_USER_IDS": "005M00000071S6XIAU,005n0000001K00kAAC,005d0000002lvl1AAA,005c0000002s8lHAAQ,0055B000000XTxnQAG,00530000009MXktAAG,0053C000000JEokQAG,005c0000003WSIZAA4",
+    "DATASOURCE_ALOHA_USERNAME": "eappsfacade@sso.salesforce.com.eappsdev",
+    "DATASOURCE_ORG62_SUFFIX": "devpro59",
+    "DATASOURCE_ORG62_USERNAME": "eapps_ticketing@salesforce.com.devpro59",
+    "DATASOURCE_PEOPLEFORCE_SUFFIX": "pfnhwdev",
+    "DATASOURCE_PEOPLEFORCE_USERNAME": "eapps_ticketing@peopleforce.com.pfnhwdev",
+    "DATASOURCE_SUPPORTFORCE_ROLE_MANAGER": "Manager,Termination Manager",
+    "DATASOURCE_SUPPORTFORCE_SUFFIX": "restdev",
+    "DATASOURCE_SUPPORTFORCE_USERNAME": "eapps_ticketing@supportforce.com.restdev",
+    "LOGGING_LEVEL_COM_SALESFORCE": "DEBUG",
+    "LOGGING_LEVEL_COM_SALESFORCE_WEBCORE_CLIENT_REST": "TRACE",
+    "LOGGING_LEVEL_ROOT": "INFO",
+    "LOGGING_PATTERN_CONSOLE": "[%thread] %-5level %logger{5} - %msg%n%xThrowable",
+    "SERVER_MAX_HTTP_HEADER_SIZE": "524288",
+    "CACHE_REFRESH_DELAY_MILLIS": "21600000",
+    "JAVA_OPTS": "-Djdk.tls.client.protocols=\"TLSv1,TLSv1.1,TLSv1.2\"",
+    "GITHUB_REGISTRY_USERNAME": "employee-experience-build"
+  }
+}

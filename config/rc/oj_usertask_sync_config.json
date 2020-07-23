@@ -1,0 +1,9 @@
+{
+  "oj_usertask_sync_config": {
+    "LOGGING_LEVEL_COM_SALESFORCE": "DEBUG",
+    "LOGGING_PATTERN_CONSOLE": "[%thread] %-5level %logger{5} - %msg%n%xThrowable",
+    "JAVA_OPTS": "-Djdk.tls.client.protocols=\"TLSv1,TLSv1.1,TLSv1.2\"",
+    "GITHUB_REGISTRY_USERNAME": "employee-experience-build",
+    "CRON_EXPRESSION": "0 0 0 * * ?"
+  }
+}

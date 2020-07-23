@@ -1,0 +1,9 @@
+{
+  "metrics_config": {
+    "LOGGING_LEVEL_COM_SALESFORCE": "DEBUG",
+    "SPRING_SERVLET_MULTIPART_MAX_REQUEST_SIZE": "100MB",
+    "SERVER_MAX_HTTP_HEADER_SIZE": "524288",
+    "JAVA_OPTS": "-Djdk.tls.client.protocols=\"TLSv1,TLSv1.1,TLSv1.2\"",
+    "GITHUB_REGISTRY_USERNAME": "employee-experience-build"
+  }
+}

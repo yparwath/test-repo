@@ -1,0 +1,18 @@
+{
+  "ticketing_config": {
+    "DATASOURCE_ALOHA_USERNAME": "eappsfacade@sso.salesforce.com",
+    "DATASOURCE_ORG62_USERNAME": "eapps_ticketing@salesforce.com",
+    "DATASOURCE_PEOPLEFORCE_SUFFIX": "",
+    "DATASOURCE_PEOPLEFORCE_USERNAME": "eapps_ticketing@peopleforce.com",
+    "DATASOURCE_SUPPORTFORCE_ROLE_MANAGER": "Termination Manager",
+    "DATASOURCE_SUPPORTFORCE_SUFFIX": "",
+    "DATASOURCE_SUPPORTFORCE_USERNAME": "eapps_ticketing@supportforce.com",
+    "LOGGING_LEVEL_COM_SALESFORCE": "DEBUG",
+    "LOGGING_LEVEL_COM_SALESFORCE_WEBCORE_CLIENT_REST": "TRACE",
+    "LOGGING_PATTERN_CONSOLE": "[%thread] %-5level %logger{5} - %msg%n%xThrowable",
+    "SERVER_MAX_HTTP_HEADER_SIZE": "524288",
+    "CACHE_REFRESH_DELAY_MILLIS": "21600000",
+    "JAVA_OPTS": "-Djdk.tls.client.protocols=\"TLSv1,TLSv1.1,TLSv1.2\"",
+    "GITHUB_REGISTRY_USERNAME": "employee-experience-build"
+  }
+}

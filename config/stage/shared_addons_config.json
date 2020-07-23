@@ -1,0 +1,9 @@
+{
+  "shared_addons_config": {
+    "CONNECT_ORG62_USERNAME": "eapps_connect@salesforce.com.preproduat",
+    "CONNECT_PEOPLEFORCE_USERNAME": "eapps_connect@peopleforce.com.pfuat",
+    "CONNECT_SUPPORTFORCE_USERNAME": "eapps_connect@supportforce.com.spfuat",
+    "CONNECT_ANSWERSORG_USERNAME": "connect@answers-prod.org.stage",
+    "GITHUB_REGISTRY_USERNAME": "employee-experience-build"
+  }
+}

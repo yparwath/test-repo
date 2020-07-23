@@ -1,0 +1,16 @@
+{
+  "knowledge_crawler_config": {
+    "DATASOURCE_PROPERTIES_ORG62_HOSTNAME": "org62.my.salesforce.com",
+    "DATASOURCE_PROPERTIES_ORG62_IMAGE_DOMAIN": "org62.content.force.com",
+    "DATASOURCE_PROPERTIES_ORG62_USERNAME": "eapps_knowledge@salesforce.com",
+    "DATASOURCE_PROPERTIES_PEOPLEFORCE_HOSTNAME": "dreamjobcentral.my.salesforce.com",
+    "DATASOURCE_PROPERTIES_PEOPLEFORCE_IMAGEDOMAIN": "dreamjobcentral--c.na64.content.force.com",
+    "DATASOURCE_PROPERTIES_PEOPLEFORCE_USERNAME": "eapps_knowledge@peopleforce.com",
+    "HYSTRIX_COMMAND_RECORDREADER_CIRCUITBREAKER_ENABLED": "false",
+    "KNOWLEDGE_ARTICLES_PROPERTIES_SUPPORTFORCE_SUPPORTFORCE_ARTICLE_DISABLED": "true",
+    "LOGGING_LEVEL_COM_SALESFORCE": "DEBUG",
+    "LOGGING_PATTERN_CONSOLE": "[%thread] %-5level %logger{5} - %msg%n%xThrowable",
+    "GITHUB_REGISTRY_USERNAME": "employee-experience-build",
+    "JAVA_OPTS": "-Djdk.tls.client.protocols=\"TLSv1,TLSv1.1,TLSv1.2\""
+  }
+}

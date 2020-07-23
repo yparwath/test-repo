@@ -1,0 +1,23 @@
+{
+  "concierge_config": {
+    "ALOHA_SSO_DJC_RELAY_URL": "https://test.salesforce.com/services/auth/sso/00DM0000001YNSGMA4/dreamjobcentral?site=https://pfuat-careers.cs7.force.com/dreamjobcentral&startURL=",
+    "ALOHA_SSO_ORG62_ID": "0sp8A0000008OKG",
+    "ALOHA_URL": "https://aloha--full3.my.salesforce.com",
+    "ALTERNATE_APP_URL": "http://concierge-beta-stage.it.salesforce.com",
+    "CACHE_TTL": "28800000",
+    "CORS_ORIGINS": "https://org62--preproduat.lightning.force.com",
+    "FACADE_URL": "https://eapps-gateway-stage.herokuapp.com",
+    "GO_TO_TECHBAR_ARTICLE_URL": "https://concierge.it.salesforce.com/articles/en_US/Supportforce_Article/Where-are-the-IT-Techforce-Bars-located",
+    "MAINTENANCE_PAGE_URL": "//a.sfdcstatic.com/employee_community_team/concierge/maintenance.html",
+    "NODE_ENV": "staging",
+    "ORG62_CANVAS_APP_ID": "09HQ0000000CdMyMAK:canvas1MobileNav",
+    "ORG62_CHATTER_ID": "0F9Q0000000D2t2",
+    "ORG62_URL": "https://org62--preproduat.cs69.my.salesforce.com",
+    "PEOPLEFORCE_ACCOUNT_ID": "0017000000OAYNXAA5",
+    "PEOPLEFORCE_URL": "https://dreamjobcentral--pfuat.cs7.my.salesforce.com",
+    "SNAPINS_ENABLED_DATASOURCES": "supportforce",
+    "SUPPORTFORCE_URL": "https://supportforce--spfuat.cs17.my.salesforce.com",
+    "GITHUB_REGISTRY_USERNAME": "employee-experience-build"
+  },
+  "concierge_hostname": "concierge-stage-or.it.salesforce.com"
+}

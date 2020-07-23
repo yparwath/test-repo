@@ -1,0 +1,15 @@
+{
+  "ticketing_v2_config": {
+    "DATASOURCE_PROPERTIES_ORG62_HOSTNAME": "org62.my.salesforce.com",
+    "DATASOURCE_PROPERTIES_ORG62_USERNAME": "eapps_ticketing@salesforce.com",
+    "DATASOURCE_PROPERTIES_PEOPLEFORCE_HOSTNAME": "dreamjobcentral.my.salesforce.com",
+    "DATASOURCE_PROPERTIES_PEOPLEFORCE_USERNAME": "eapps_ticketing@peopleforce.com",
+    "DATASOURCE_PROPERTIES_SUPPORTFORCE_HOSTNAME": "supportforce.my.salesforce.com",
+    "DATASOURCE_PROPERTIES_SUPPORTFORCE_USERNAME": "eapps_ticketing@supportforce.com",
+    "LOGGING_LEVEL_COM_SALESFORCE": "DEBUG",
+    "LOGGING_PATTERN_CONSOLE": "[%thread] %-5level %logger{5} - %msg%n%xThrowable",
+    "GITHUB_REGISTRY_USERNAME": "employee-experience-build",
+    "SERVER_MAX_HTTP_HEADER_SIZE": "524288",
+    "JAVA_OPTS": "-Djdk.tls.client.protocols=\"TLSv1,TLSv1.1,TLSv1.2\""
+  }
+}

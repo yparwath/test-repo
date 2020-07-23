@@ -1,0 +1,9 @@
+{
+  "service_discovery_config": {
+    "EUREKA_SERVER_EVICTION_INTERVAL_TIMER_IN_MS": "1000",
+    "EUREKA_SERVER_ENABLE_SELF_PRESERVATION": "false",
+    "JAVA_OPTS": "-Djdk.tls.client.protocols=\"TLSv1,TLSv1.1,TLSv1.2\"",
+    "LOGGING_LEVEL_COM_SALESFORCE": "DEBUG",
+    "GITHUB_REGISTRY_USERNAME": "employee-experience-build"
+  }
+}

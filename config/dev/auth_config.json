@@ -1,0 +1,33 @@
+{
+  "auth_config": {
+    "AUTH_DATASOURCES_ALOHA_FACADE_ALLOWEDSERVICES": "ticketing,facade",
+    "AUTH_DATASOURCES_ALOHA_FACADE_USERNAME": "eappsfacade@sso.salesforce.com.eappsdev",
+    "AUTH_DATASOURCES_ANSWERS_DEV_ALLOWEDSERVICES": "facade",
+    "AUTH_DATASOURCES_ANSWERS_DEV_USERNAME": "eappsfacade@answers.org.dev",
+    "AUTH_DATASOURCES_PEOPLEFORCE_KNOWLEDGE_ALLOWEDSERVICES": "knowledgecrawler",
+    "AUTH_DATASOURCES_PEOPLEFORCE_KNOWLEDGE_USERNAME": "eapps_knowledge@peopleforce.com.pfnhwdev",
+    "AUTH_DATASOURCES_SUPPORTFORCE_KNOWLEDGE_ALLOWEDSERVICES": "knowledgecrawler",
+    "AUTH_DATASOURCES_SUPPORTFORCE_KNOWLEDGE_USERNAME": "eapps_knowledge@supportforce.com.restdev",
+    "AUTH_DATASOURCES_SUPPORTFORCE_LOCATION_ALLOWEDSERVICES": "location",
+    "AUTH_DATASOURCES_SUPPORTFORCE_LOCATION_USERNAME": "eapps_location@supportforce.com.restdev",
+    "AUTH_DATASOURCES_ORG62_FACADE_ALLOWEDSERVICES": "facade",
+    "AUTH_DATASOURCES_ORG62_FACADE_USERNAME": "eapps_facade@salesforce.com.devpro59",
+    "AUTH_DATASOURCES_ORG62_TICKETING_ALLOWEDSERVICES": "ticketing",
+    "AUTH_DATASOURCES_ORG62_TICKETING_USERNAME": "eapps_ticketing@salesforce.com.devpro59",
+    "AUTH_DATASOURCES_ORG62_KNOWLEDGE_ALLOWEDSERVICES": "knowledgecrawler",
+    "AUTH_DATASOURCES_ORG62_KNOWLEDGE_USERNAME": "eapps_knowledge@salesforce.com.devpro59",
+    "AUTH_DATASOURCES_PEOPLEFORCE_FACADE_ALLOWEDSERVICES": "facade",
+    "AUTH_DATASOURCES_PEOPLEFORCE_FACADE_USERNAME": "eapps_facade@peopleforce.com.pfnhwdev",
+    "AUTH_DATASOURCES_PEOPLEFORCE_TICKETING_ALLOWEDSERVICES": "ticketing",
+    "AUTH_DATASOURCES_PEOPLEFORCE_TICKETING_USERNAME": "eapps_ticketing@peopleforce.com.pfnhwdev",
+    "AUTH_DATASOURCES_SUPPORTFORCE_FACADE_ALLOWEDSERVICES": "facade",
+    "AUTH_DATASOURCES_SUPPORTFORCE_FACADE_USERNAME": "eapps_facade@supportforce.com.restdev",
+    "AUTH_DATASOURCES_SUPPORTFORCE_TICKETING_ALLOWEDSERVICES": "ticketing",
+    "AUTH_DATASOURCES_SUPPORTFORCE_TICKETING_USERNAME": "eapps_ticketing@supportforce.com.restdev",
+    "AUTH_TOKEN_HOSTNAME": "test.salesforce.com",
+    "SERVER_MAX_HTTP_HEADER_SIZE": "524288",
+    "JAVA_OPTS": "-Djdk.tls.client.protocols=\"TLSv1,TLSv1.1,TLSv1.2\"",
+    "LOGGING_LEVEL_COM_SALESFORCE": "DEBUG",
+    "GITHUB_REGISTRY_USERNAME": "employee-experience-build"
+  }
+}

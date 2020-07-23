@@ -1,0 +1,11 @@
+{
+  "desktop_orgchart_config": {
+    "API_USERNAME": "desktoporgchart@salesforce.com.devpro60",
+    "DATA_ENDPOINT": "https://org62--devpro60.cs21.my.salesforce.com",
+    "NODE_ENV": "qa",
+    "OAUTH_ENDPOINT": "https://aloha--eappsdev.my.salesforce.com",
+    "PRONOUN_ARTICLE": "https://concierge.it.salesforce.com/articles/en_US/How_To/Gender-Pronouns-Self-Identification",
+    "GITHUB_REGISTRY_USERNAME": "employee-experience-build"
+  },
+  "desktop_orgchart_hostname": "orgchart-desktop-qa.eapps.sfdc.sh"
+}

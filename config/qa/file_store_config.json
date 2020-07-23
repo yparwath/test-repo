@@ -1,0 +1,8 @@
+{
+  "file_store_config": {
+    "LOGGING_LEVEL_COM_SALESFORCE": "DEBUG",
+    "SPRING_SERVLET_MULTIPART_MAX_REQUEST_SIZE": "100MB",
+    "JAVA_OPTS": "-Djdk.tls.client.protocols=\"TLSv1,TLSv1.1,TLSv1.2\"",
+    "GITHUB_REGISTRY_USERNAME": "employee-experience-build"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "gateway_config": {
+    "JWT_VERIFY_MAX_FUTURE_VALIDITY": "485",
+    "SERVER_MAX_HTTP_HEADER_SIZE": "524288",
+    "JAVA_OPTS": "-Djdk.tls.client.protocols=\"TLSv1,TLSv1.1,TLSv1.2\"",
+    "LOGGING_LEVEL_COM_SALESFORCE": "DEBUG",
+    "GITHUB_REGISTRY_USERNAME": "employee-experience-build"
+  }
+}

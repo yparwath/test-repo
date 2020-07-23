@@ -1,0 +1,12 @@
+{
+  "desktop_orgchart_config": {
+    "API_USERNAME": "desktoporgchart@salesforce.com",
+    "DATA_ENDPOINT": "https://org62.my.salesforce.com",
+    "NODE_ENV": "production",
+    "OAUTH_ENDPOINT": "https://aloha.my.salesforce.com",
+    "PRONOUN_ARTICLE": "https://concierge.it.salesforce.com/articles/en_US/How_To/Gender-Pronouns-Self-Identification",
+    "MAINTENANCE_PAGE_URL": "https://bucketeer-32a4521e-ed4e-4451-b982-1c9567e45a4c.s3.amazonaws.com/public/maintenance.html",
+    "GITHUB_REGISTRY_USERNAME": "employee-experience-build"
+  },
+  "desktop_orgchart_hostname": "orgchart.it.salesforce.com"
+}

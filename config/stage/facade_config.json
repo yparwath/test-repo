@@ -1,0 +1,28 @@
+{
+  "facade_config": {
+    "ADMIN_USER_IDS": "005d0000002AHrsAAG",
+    "ASK_ASTRO_GTO_IS_GA": "true",
+    "ATTACHMENT_INVALID_MIME_TYPES": "application/vnd.ms-excel",
+    "AWS_ELASTICSEARCH_URL": "https://vpc-uat-or-concg-es-01-5fhfugqzda3zy2mr7nqwg33vyi.us-west-2.es.amazonaws.com",
+    "CRAWLER_LIGHTNING_KNOWLEDGE_DATA_SOURCES": "PeopleForce",
+    "DATASOURCE_ALOHA_USERNAME": "eappsfacade@sso.salesforce.com.full3",
+    "DATASOURCE_ANSWERS_USERNAME": "eappsfacade@answers.org.stage",
+    "DATASOURCE_ORG62_SUFFIX": "preproduat",
+    "DATASOURCE_ORG62_USERNAME": "eapps_facade@salesforce.com.preproduat",
+    "DATASOURCE_PEOPLEFORCE_SUFFIX": "pfuat",
+    "DATASOURCE_PEOPLEFORCE_USERNAME": "eapps_facade@peopleforce.com.pfuat",
+    "DATASOURCE_READINESS_USERNAME": "eappsfacade@readiness.salesforce.com.alfredfull",
+    "DATASOURCE_SUPPORTFORCE_ROLE_MANAGER": "Termination Manager",
+    "DATASOURCE_SUPPORTFORCE_SUFFIX": "spfuat",
+    "DATASOURCE_SUPPORTFORCE_USERNAME": "eapps_facade@supportforce.com.spfuat",
+    "LOGGING_LEVEL_COM_SALESFORCE": "DEBUG",
+    "LOGGING_LEVEL_COM_SALESFORCE_WEBCORE_CLIENT_REST": "TRACE",
+    "LOGGING_LEVEL_ORG_SPRINGFRAMEWORK_KAFKA": "INFO",
+    "LOGGING_PATTERN_CONSOLE": "[%thread] %-5level %logger{5} - %msg%n%xThrowable",
+    "READINESS_EXTERNAL_CONTENT_ENABLED": "false",
+    "SEARCH_ORG62_FILE_METADATA": "TRUE",
+    "SERVER_MAX_HTTP_HEADER_SIZE": "524288",
+    "JAVA_OPTS": "-Djdk.tls.client.protocols=\"TLSv1,TLSv1.1,TLSv1.2\"",
+    "GITHUB_REGISTRY_USERNAME": "employee-experience-build"
+  }
+}

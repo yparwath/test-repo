@@ -44,28 +44,28 @@
                 'label': 'First Name',
                 'name': 'FirstName',
                 "transcriptFields": ["FirstName__c"],
-                'value': '<%- secureFilters.js(settings.firstName) %>',
+                // 'value': '<%- secureFilters.js(settings.firstName) %>',
                 'displayToAgent': true
             },
             {
                 'label': 'Last Name',
-                'value': '<%- secureFilters.js(settings.lastName) %>',
+                // 'value': '<%- secureFilters.js(settings.lastName) %>',
                 "transcriptFields": ["LastName__c"],
                 'displayToAgent': true
             },
             {
                 'label': 'Email',
-                'value': '<%- secureFilters.js(settings.email) %>',
+                // 'value': '<%- secureFilters.js(settings.email) %>',
                 "transcriptFields": ["Email__c"],
                 'displayToAgent': true
             }
         ];
 
-        embedded_svc.settings.prepopulatedPrechatFields = {
-            FirstName: '<%- secureFilters.js(settings.firstName) %>',
-            LastName: '<%- secureFilters.js(settings.lastName) %>',
-            Email: '<%- secureFilters.js(settings.email) %>'
-        };
+        // embedded_svc.settings.prepopulatedPrechatFields = {
+        //     FirstName: '<%- secureFilters.js(settings.firstName) %>',
+        //     LastName: '<%- secureFilters.js(settings.lastName) %>',
+        //     Email: '<%- secureFilters.js(settings.email) %>'
+        // };
 
 
         embedded_svc.init(
